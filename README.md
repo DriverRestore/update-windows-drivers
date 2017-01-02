@@ -1,18 +1,12 @@
 # Update Windows Drivers
-Update Windows Drivers for your computer with Driver Restore - [Download Windows Drivers Update Tool](http://driverrestore.com/ "Download Windows Drivers Update Tool") for Windows 10, 8, 7, Vista &amp; XP.
+Update Windows Drivers for your computer with Driver Restore - [Download Windows Drivers Update Tool](http://driverrestore.com/ "Download Windows Drivers Update Tool") for Windows 10, 8, 7, Vista &amp; XP. For more information and faq's read our wiki https://github.com/DriverRestore/update-windows-drivers/wiki
 
 # Windows Driver Documentation
 
 Welcome to the Windows drivers update repository, housing the source for the update Windows Drivers documentation .
 ## Contributing
 
-We actively merge contributions into this repository via pull request into the staging branch (for the public repo) or the master branch (for the private repo).
-
-For more information on contributing, read our contributions guide.
-
-# Microsoft Code of Conduct
-
-This project has adopted the Microsoft Open Source Code of Conduct. For more information see the Code of Conduct FAQ or contact opencode@microsoft.com with any additional questions or comments.
+We actively merge contributions into this repository via pull request into the staging branch (for the public repo) or the master branch (for the private repo). 
 
 # Drivers for Windows 10
 
@@ -47,4 +41,4 @@ If you're writing your first driver, use these exercises to get started. Each ex
 [Write a KMDF driver based on a template](http://go.microsoft.com/fwlink/p/?LinkId=524494 "Write a KMDF driver based on a template")
 
 # Microsoft Code of Conduct
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) .
