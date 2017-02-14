@@ -1,5 +1,5 @@
 # Update Windows Drivers
-Update Windows Drivers for your computer with Driver Restore - [Download Windows Drivers Update Tool](http://driverrestore.com/ "Download Windows Drivers Update Tool") for Windows 10, 8, 7, Vista &amp; XP. For more information and faq's read our wiki https://github.com/DriverRestore/update-windows-drivers/wiki
+Update Windows Drivers for your computer with Driver Restore - [Download Windows Drivers Updater](http://driverrestore.com/ "Download Windows Drivers Update Tool") for Windows 10, 8, 7, Vista &amp; XP. For more information and faq's read our wiki https://github.com/DriverRestore/update-windows-drivers/wiki
 
 # Windows Driver Documentation
 
@@ -14,7 +14,7 @@ We actively merge contributions into this repository via pull request into the s
 
 # Windows 10 drivers
 
-Use Visual Studio 2015 and Windows Driver Kit (WDK) 10 to build, test, and deploy your drivers. With Windows 10, the driver development environment is integrated into Visual Studio. To get started, download the driver development kits and tools for Windows 10.
+Use Visual Studio 2015 and Windows Driver Kit (WDK) 10 to build, test, and deploy your drivers. With Windows 10, the driver development environment is integrated into Visual Studio. To get started, download the driver development kits and tools for Windows 10. [Update drivers in windows 10 here](http://driverrestore.com/update-drivers-windows-10-upgrade/)
 
 [Download the WDK, WinDbg, and associated tools](https://developer.microsoft.com/en-us/windows/hardware/windows-driver-kit "Download the WDK, WinDbg, and associated tools for Windows 10")
 Windows 10 Driver Kit (WDK)
