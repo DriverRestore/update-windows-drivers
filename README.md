@@ -1,6 +1,9 @@
 # Update Windows Drivers
 Update Windows Drivers for your computer with Driver Restore - [Download Windows Drivers Updater](http://driverrestore.com/ "Download Windows Drivers Update Tool") for Windows 10, 8, 7, Vista &amp; XP. For more information and faq's read our wiki https://github.com/DriverRestore/update-windows-drivers/wiki
 
+#Upgraded Version
+Try [Fixbit](https://fixbit.com/ "Fixbit - Drivers Updater Tool for Windows 10")
+
 # Windows Driver Documentation
 
 Welcome to the Windows drivers update repository, housing the source for the update Windows Drivers documentation .
